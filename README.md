@@ -1,3 +1,5 @@
-# csad2425ki408pavlushokt13y
-vtvtvt
+##COMPUTER SYSTEMS AUTOMATED DESIGN
+# Repositiry design
+
 # Task Details
+* Variant: 13
